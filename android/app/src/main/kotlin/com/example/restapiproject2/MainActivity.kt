@@ -1,0 +1,6 @@
+package com.example.restapiproject2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
